@@ -464,6 +464,7 @@ dsh plugin --profile web add dshmarket
 - [AbnerAI/dsh-monitor](https://github.com/AbnerAI/dsh-monitor) — 常驻后台监视器：文件收件箱（NDJSON）或命令输出增量一到就唤醒 agent，相当于 Claude Code Monitor 工具的 Harness 实现。
 - [YuanyuanMa03/dsh-funnel](https://github.com/YuanyuanMa03/dsh-funnel) — 摄入时点的工具输出治理：保留 error/warning 行与头尾，全文落盘留指针供模型按需读回；覆盖所有返回文本的工具，小结果原样通过。
 ### 🧩 技能包
+- [STARDUSTLC666/dsh-ppt](https://github.com/STARDUSTLC666/dsh-ppt) — 演示文稿技能 + 工具：一句话/一篇文档 → HTML 网页放映 + PPTX 导出，5 套视觉主题，中英双语，零运行时依赖。
 - [STARDUSTLC666/dsh-remotion](https://github.com/STARDUSTLC666/dsh-remotion) — Remotion 官方移植技能：React 编程式视频（动画/音频/字幕/3D/图表/字体，38 规则文件），安装即用。
 - [STARDUSTLC666/dsh-hyperframes](https://github.com/STARDUSTLC666/dsh-hyperframes) — HyperFrames by HeyGen 官方移植技能五件套：HTML 写视频 / CLI / 注册表 / 网址转视频 / GSAP 参考。
 - [YuanyuanMa03/cot-lint](https://github.com/YuanyuanMa03/cot-lint) — 思维链泄漏检测：零依赖 CLI 扫描 AI 留在文档与注释里的会话残留（死设计引用、PR 视角、变更叙述、评审编排），内置 cot-trim 语义修复技能包。

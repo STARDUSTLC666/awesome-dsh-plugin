@@ -463,6 +463,7 @@ dsh plugin --profile web add dshmarket
 - [AbnerAI/dsh-monitor](https://github.com/AbnerAI/dsh-monitor) - Persistent background watchers that wake the agent on new messages (file inbox or command-output delta) — the harness analog of Claude Code's Monitor tool.
 - [YuanyuanMa03/dsh-funnel](https://github.com/YuanyuanMa03/dsh-funnel) - Ingestion-time tool-output curation: keeps error and warning lines plus head and tail, spills the full text to disk with a pointer the model can read back; covers every text tool, small results pass through untouched.
 ### Skills
+- [STARDUSTLC666/dsh-ppt](https://github.com/STARDUSTLC666/dsh-ppt) - Presentation skill + tools: one sentence or one document → HTML slideshow + PPTX export, 5 visual themes, bilingual, zero runtime dependencies.
 - [STARDUSTLC666/dsh-remotion](https://github.com/STARDUSTLC666/dsh-remotion) - Official Remotion skill ported to DSH: programmatic video with React (animation/audio/captions/3D/charts/fonts, 38 rule files).
 - [STARDUSTLC666/dsh-hyperframes](https://github.com/STARDUSTLC666/dsh-hyperframes) - Five official HyperFrames by HeyGen skills: HTML video / CLI / registry / website-to-video / GSAP reference.
 - [YuanyuanMa03/cot-lint](https://github.com/YuanyuanMa03/cot-lint) - Chain-of-thought leakage linter: zero-dependency CLI that finds AI-session residue in docs and comments (dead design citations, PR vantage, change narration, review choreography), shipping the cot-trim fixing skill as the installable bundle.
