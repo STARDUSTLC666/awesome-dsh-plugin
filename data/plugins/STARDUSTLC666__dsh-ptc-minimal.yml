@@ -1,6 +1,0 @@
-url: https://github.com/STARDUSTLC666/dsh-ptc-minimal
-name: STARDUSTLC666/dsh-ptc-minimal
-category: workflow
-description:
-  en: 'A minimal-prompt PTC agent preset: one-line persona with the full Code Mode toolset, including subagents, workflows and web search.'
-  zh: 极简提示词 PTC Agent 预设：一句人格 + Code Mode 全量工具，含子代理、工作流与联网搜索。
