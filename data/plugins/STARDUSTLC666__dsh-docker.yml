@@ -1,0 +1,6 @@
+url: https://github.com/STARDUSTLC666/dsh-docker
+name: STARDUSTLC666/dsh-docker
+category: tools
+description:
+  en: 'Docker tools for agents: ps/logs/inspect/exec/manage with JSON output, approval-gated exec and zero runtime dependencies.'
+  zh: Docker 工具：ps/logs/inspect/exec/manage，JSON 输出、exec 审批门、零运行时依赖。
