@@ -1,0 +1,6 @@
+url: https://github.com/STARDUSTLC666/dsh-review
+name: STARDUSTLC666/dsh-review
+category: git
+description:
+  en: 'Evidence-gated code review: lens-planned subagent finders, executable evidence required for every finding, stable fingerprints that merge duplicates at the highest severity, a three-round convergence cap, and a CI gate that blocks on open blockers.'
+  zh: '以证据为准的代码审阅：按镜头派发子智能体找问题，每条结论必须有可执行证据；用稳定指纹合并重复项并取最严严重度；三轮收敛；提供 CI 门禁拦截未关闭的高优先级结论。'
